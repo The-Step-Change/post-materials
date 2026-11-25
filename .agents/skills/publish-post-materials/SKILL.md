@@ -7,6 +7,10 @@ description: Turn the working files behind a published Step Change post into a c
 
 The working folders are private and may be messy. This repository is public and must be clean. Never copy a working folder wholesale: build the public folder file by file.
 
+## Who does this
+
+The session that did the analysis builds the folder, because it knows which code made each figure and what each dataset's licence allows. It does not approve its own folder: the publication's manager session checks it against the published post and this checklist, and the owner then says whether to push.
+
 ## Before you start
 
 - The post is published and archived (`posts/index.md` in the publication's private project lists it).
