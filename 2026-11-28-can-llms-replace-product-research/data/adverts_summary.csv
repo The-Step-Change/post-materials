@@ -1,0 +1,14 @@
+measure,who,value
+"ranking, share of ceiling","Haiku, paper's method (SSR, bge-small)",0.58847
+"ranking, share of ceiling",simple guess: average for that kind of advert,0.765345
+"ranking, ceiling (two halves of the 120 people)",,0.866183
+share of rating 1,real people,0.553167
+share of rating 2,real people,0.177806
+share of rating 3,real people,0.134556
+share of rating 4,real people,0.079583
+share of rating 5,real people,0.054889
+share of rating 1,"Haiku twins, 1 to 5 score",0.034639
+share of rating 2,"Haiku twins, 1 to 5 score",0.733389
+share of rating 3,"Haiku twins, 1 to 5 score",0.153194
+share of rating 4,"Haiku twins, 1 to 5 score",0.078694
+share of rating 5,"Haiku twins, 1 to 5 score",8.3e-05

@@ -1,12 +1,12 @@
 # The Step Change: code and data behind the posts
 
-[The Step Change](https://thestepchange.substack.com/) tests what AI can and cannot do in real work. This repository holds the analysis, data and figures behind each post that rests on data or a model, so anyone can check the work or build on it.
+[The Step Change](https://thestepchange.org/) tests what AI can and cannot do in real work. This repository holds the analysis, data and figures behind each post that rests on data or a model, so anyone can check the work or build on it.
 
 ## Posts
 
 | Published | Post | Folder | What it tests |
 |---|---|---|---|
-| | *None yet.* | | |
+| 2026-11-28 | [Can LLMs replace product research surveys?](https://thestepchange.org/p/can-llms-replace-product-research) | [2026-11-28-can-llms-replace-product-research](2026-11-28-can-llms-replace-product-research/) | Whether AI twins can stand in for survey panels, using a published method on six public datasets |
 
 ## How each folder is laid out
 
